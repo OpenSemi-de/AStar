@@ -13,6 +13,7 @@
     <RootNamespace>AStar</RootNamespace>
     <LangVersion>latest</LangVersion>
     <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
 
 </Project>
